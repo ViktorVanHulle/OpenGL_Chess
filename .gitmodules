@@ -1,0 +1,12 @@
+[submodule "external/tclap"]
+	path = external/tclap
+	url = https://git.code.sf.net/p/tclap/code
+[submodule "external/glfw"]
+	path = external/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "external/glm"]
+	path = external/glm
+	url = https://github.com/g-truc/glm
+[submodule "external/stb"]
+	path = external/stb
+	url = https://github.com/RafaelPalomar/stb
